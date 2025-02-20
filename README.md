@@ -1,1 +1,1 @@
-# Sistemas-de-Comunicaci-n-Distribuidos
+# Sistemas-de-Comunicación-Distribuidos
